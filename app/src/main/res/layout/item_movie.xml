@@ -23,6 +23,7 @@
         android:layout_marginStart="3dp"
         android:layout_toEndOf="@+id/ivPoster"
         android:text="Fantastic Mr.Fox"
+        android:textColor="#672424"
         android:textSize="24sp" />
 
     <TextView
